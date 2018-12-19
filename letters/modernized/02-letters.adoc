@@ -1,5 +1,6 @@
 == Letters of Samuel Crisp
 
+[.centered]
 === Letter I.
 
 I received a letter from you, the week before last, which was sent by your uncle Bolton:
@@ -298,12 +299,16 @@ Let us remember to pray for one another with all fervency,
 that we may stand perfect in the whole will of God.
 Amen, says my soul.
 
+[.signed-section-closing]
 I am your most affectionate friend and servant in Jesus,
 
+[.signed-section-signature]
 Samuel Crisp
 
+[.centered]
 === Letter II.
 
+[.salutation]
 My dear friend,
 
 I lately received a kind and brotherly letter from you,
@@ -538,5 +543,5 @@ and praise God for all His mercies and benefits.
 That you may indeed come to such spiritual enjoyments and refreshments as these,
 is the sincere desire of your loving and affectionate friend,
 
+[.signed-section-signature]
 Samuel Crisp
-

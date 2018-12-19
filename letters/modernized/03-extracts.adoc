@@ -1,11 +1,18 @@
-== Extracts from Samuel Crisp's Work Entitled A VINDICATION OF THE PEOPLE CALLED QUAKERS
+[#vindication, short="A Vindication of the People Called Quakers"]
+== Extracts from Samuel Crisp's Work Entitled: A Vindication of the People Called Quakers
 
+[.centered]
 === A Plea For the Truth, and an Earnest Exhortation to Be Found Walking Therein.
 
+[quote.scripture, , Jer. 6:16]
+____
 "`Stand in the ways and see, and ask for the old paths, where is the good way,
-and walk therein, and you shall find rest for your souls.`"-- Jer. 6:16.
+and walk therein, and you shall find rest for your souls.`"
+____
 
+[.salutation]
 Reader,
+
 I desire you would be serious and unbiassed in
 the reading of what I here present to your view,
 so you may reap benefit and advantage by it to your soul.
@@ -136,10 +143,14 @@ That we may all come to know, witness and experience this in ourselves,
 is the earnest supplication and prayer of your hearty well-wisher and sincere friend,
 to serve you in the Truth.
 
+[.centered]
 === On Divine Worship, Gospel Ministry, and the True Church.
 
+[quote.scripture, , John 4:24]
+____
 "`God is a Spirit; and they that worship Him,
-must worship Him in spirit and in truth,`"--John 4:24.
+must worship Him in spirit and in truth.`"
+____
 
 Our Christian belief is,
 that every man ought to wait upon God in their measure of His own good Spirit.
