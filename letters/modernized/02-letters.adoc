@@ -170,9 +170,8 @@ and having heard in the country that he was a man of great account amongst the Q
 I had a mind to see what their principles were,
 and what defense they could make for themselves; for surely, thought I,
 these people are not so silly and ridiculous, nor maintainers of such horrid opinions,
-as the author of The Snake,^
-footnote:[The Snake in the Grass was a slanderous anti-
-Quaker publication written by John Faldo.]
+as the author of [.book-title]#The Snake,#^
+footnote:[[.book-title]#The Snake in the Grass# was a slanderous anti-Quaker publication written by John Faldo.]
 and some others would make us believe.
 I took Barclay home with me, and I read him through in a week`'s time,
 save a little treatise at the end, which finding to be very philosophical, I omitted.
