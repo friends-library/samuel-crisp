@@ -856,8 +856,10 @@ will commend them to the cordial acceptance of the serious reader.]
 ==== A Plea for the Truth, and an Earnest Exhortation to be Found Walking Therein.
 
 [quote.scripture, , Jer. 6:16]
+____
 Stand ye in the ways and see, and ask for the old paths, where is the good way,
 and walk therein, and ye shall find rest for your souls.
+____
 
 [.salutation]
 Reader,
@@ -996,8 +998,10 @@ Samuel Crisp.
 ==== On Divine Worship, Gospel Ministry, and the True Church.
 
 [quote.scripture, , John 4:24]
+____
 God is a Spirit; and they that worship him,
 must worship him in spirit and in truth.
+____
 
 Our Christian belief is, that every man ought to wait upon God,
 in the measure of his own good Spirit; that he is to follow its motions,
